@@ -8,7 +8,6 @@ website:
   description: "Associate Professor at Özyeğin University. Research on populism, collective nostalgia, nativism, democratic backsliding, and political behavior in Turkey."
   
   # SEO improvements
-  sitemap: true
   open-graph: true
   twitter-card: true
   image: profile.jpg  # add a profile photo to your root directory
